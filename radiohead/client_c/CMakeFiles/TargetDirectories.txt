@@ -1,0 +1,3 @@
+/Users/cassini/work/patterns/embedded-serial-patterns/radiohead/client_c/CMakeFiles/edit_cache.dir
+/Users/cassini/work/patterns/embedded-serial-patterns/radiohead/client_c/CMakeFiles/rebuild_cache.dir
+/Users/cassini/work/patterns/embedded-serial-patterns/radiohead/client_c/CMakeFiles/radiohead1.dir
